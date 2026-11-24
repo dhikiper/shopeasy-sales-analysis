@@ -1,0 +1,41 @@
+product_id,product_name,category,price
+P001,Earphones,Electronics,161000
+P002,Power Bank,Electronics,1167000
+P003,Wireless Mouse,Electronics,992000
+P004,Keyboard,Electronics,675000
+P005,Webcam,Electronics,666000
+P006,Mini Speaker,Electronics,1292000
+P007,Charger,Electronics,156000
+P008,Smartwatch,Electronics,1055000
+P009,Plain T-Shirt,Fashion,326000
+P010,Dress Shirt,Fashion,168000
+P011,Jacket,Fashion,803000
+P012,Jeans,Fashion,1464000
+P013,Sneakers,Fashion,1111000
+P014,Backpack,Fashion,1148000
+P015,Cap,Fashion,1084000
+P016,Scarf,Fashion,1185000
+P017,Rice Cooker,Home & Living,784000
+P018,Blender,Home & Living,218000
+P019,LED Lamp,Home & Living,1264000
+P020,Cookware Set,Home & Living,692000
+P021,Water Dispenser,Home & Living,765000
+P022,Robot Vacuum,Home & Living,575000
+P023,Electric Fan,Home & Living,298000
+P024,Electric Kettle,Home & Living,1392000
+P025,Face Serum,Beauty,1178000
+P026,Sunscreen,Beauty,976000
+P027,Lipstick,Beauty,621000
+P028,Moisturizer,Beauty,1239000
+P029,Face Wash,Beauty,831000
+P030,Perfume,Beauty,681000
+P031,Face Mask,Beauty,692000
+P032,Shampoo,Beauty,364000
+P033,Yoga Mat,Sports,165000
+P034,Dumbbell,Sports,845000
+P035,Water Bottle,Sports,1335000
+P036,Running Shoes,Sports,123000
+P037,Badminton Racket,Sports,1291000
+P038,Gym Gloves,Sports,1246000
+P039,Jump Rope,Sports,436000
+P040,Jersey,Sports,958000
